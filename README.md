@@ -1,6 +1,8 @@
 # deascore
 
-A new Flutter project.
+Um projeto como exercicio pessoal para desensvolvimento flutter
+
+é um app que cria e gerencia restaurantes, também recebe dados de restaurantes por API (SERVER NÂO INCLUSO)
 
 ## Getting Started
 
